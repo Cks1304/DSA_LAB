@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #define Max 100
 struct TreeNode{
+
     int data;
 };
 struct TreeNode tree[Max];
